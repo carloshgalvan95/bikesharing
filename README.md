@@ -86,4 +86,4 @@ The key factor to ensure this success are going to be:
 - Scheduling Maintenance hours during least concurent hours of demand
 
 ## Resources
-[link to dashboard](https://public.tableau.com/views/NYC_citi_bikes_challenge/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/views/NYC_citi_bikes_challenge/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
